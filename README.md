@@ -109,8 +109,6 @@ python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 pip install -r requirements.txt
 ```
-*(Note: You will need to create a `requirements.txt` file by running `pip freeze > requirements.txt`)*
-
 **3. Configure Environment Variables**
 
 This project uses a `.env` file to manage secret keys. **Never commit your `.env` file to Git.**
