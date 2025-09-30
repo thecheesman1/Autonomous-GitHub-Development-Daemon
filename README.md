@@ -107,7 +107,7 @@ It's highly recommended to use a virtual environment.
 ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-pip install -r requirements.txt
+pip install -r requirements.txt # i cant be botherd to make a req.txt rn
 ```
 **3. Configure Environment Variables**
 
